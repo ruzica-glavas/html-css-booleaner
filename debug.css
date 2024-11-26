@@ -1,3 +1,7 @@
 * {
-    outline: 1px solid rgba(0, 0, 0, 0.2); /* Linea sottile per tutti gli elementi */
+    outline: 1px solid rgba(0, 0, 0, 0.2); 
+}
+
+header, main{
+    outline: 2px solid red
 }
